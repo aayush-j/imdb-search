@@ -1,5 +1,5 @@
 # IMDB Search
-A simple Python script to search relevant data and store it into a text file as a database.
+A simple Python script to search relevant data related to a movie and store it into a text file as a database.
 ## Libraries used:
 ```
 urllib.request
